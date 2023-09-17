@@ -7,4 +7,12 @@ This project demonstrates how to build a Facial Emotion Recognition system using
 ## Contents 
 * AI_fest_Hackathon.ipynb
 
+## Technology and languages used
+* Tensorflow
+* Keras
+* Python
+
+## Clone this repo in your Google Colab and run each code block
+
+` git clone https://github.com/STORMBREAKER369/Ai-fest.git `
 
